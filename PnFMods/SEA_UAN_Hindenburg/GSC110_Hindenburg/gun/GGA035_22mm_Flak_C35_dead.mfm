@@ -1,0 +1,17 @@
+<GGA035_22mm_Flak_C35_dead.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGA035_22mm_Flak_C35_dead_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGA035_22mm_Flak_C35_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGA035_22mm_Flak_C35_dead_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/default_ao.dds	</Texture>
+	</property>
+</GGA035_22mm_Flak_C35_dead.mfm>

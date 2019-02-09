@@ -1,1 +1,38 @@
-<GD007_Flak_ZAG_lod1.visual><boundingBox><min>-0.040647 -0.002986 -0.053806</min><max>0.040647 0.099953 0.027837</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Flak_ZAG</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Flak_ZAG</node><geometry><vertices>Flak_ZAG_lod1Shape.vertices</vertices><primitive>Flak_ZAG_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_director</identifier><mfm>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/director/82916753530b59bbf71622abe0115e91.mfm</mfm></material></primitiveGroup></geometry></renderSet></GD007_Flak_ZAG_lod1.visual>
+<GD007_Flak_ZAG_lod1.visual>
+	<boundingBox>
+		<min>	-0.040647 -0.002986 -0.053806	</min>
+		<max>	0.040647 0.099953 0.027837	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Flak_ZAG	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Flak_ZAG	</node>
+		<geometry>
+			<vertices>	Flak_ZAG_lod1Shape.vertices	</vertices>
+			<primitive>	Flak_ZAG_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_director	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/director/GD007_Flak_ZAG.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</GD007_Flak_ZAG_lod1.visual>

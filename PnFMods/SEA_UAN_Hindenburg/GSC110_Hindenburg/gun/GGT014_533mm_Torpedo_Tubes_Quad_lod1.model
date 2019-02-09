@@ -1,1 +1,8 @@
-<GGT014_533mm_Torpedo_Tubes_Quad_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGT014_533mm_Torpedo_Tubes_Quad_lod2</parent><extent>8.000000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGT014_533mm_Torpedo_Tubes_Quad_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGT014_533mm_Torpedo_Tubes_Quad_lod1.model>
+<GGT014_533mm_Torpedo_Tubes_Quad_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGT014_533mm_Torpedo_Tubes_Quad_lod2	</parent>
+	<extent>	8.000000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGT014_533mm_Torpedo_Tubes_Quad_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGT014_533mm_Torpedo_Tubes_Quad_lod1.model>

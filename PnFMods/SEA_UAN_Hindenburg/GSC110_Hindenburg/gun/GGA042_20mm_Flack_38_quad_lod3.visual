@@ -1,1 +1,56 @@
-<GGA042_20mm_Flack_38_quad_lod3.visual><boundingBox><min>-0.082525 0.003632 -0.070603</min><max>0.082808 0.154770 0.081969</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>GGA042_20mm_Flack_38_quad</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_gunFire1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.707107 -0.707107 0.000000</row1><row2>0.000000 0.707107 0.707107 0.000000</row2><row3>0.000000 0.147032 0.073685 1.000000</row3></transform></node><node><identifier>HP_gunFireEffect</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.707107 -0.707107 0.000000</row1><row2>0.000000 0.707107 0.707107 0.000000</row2><row3>0.000000 0.147032 0.073685 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>GGA042_20mm_Flack_38_quad</node><geometry><vertices>GGA042_20mm_Flack_38_quad_lodShape3.vertices</vertices><primitive>GGA042_20mm_Flack_38_quad_lodShape3.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunX</identifier><mfm>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/ca185c1deed377ae7a5e64aa6d5591a3.mfm</mfm></material></primitiveGroup></geometry></renderSet></GGA042_20mm_Flack_38_quad_lod3.visual>
+<GGA042_20mm_Flack_38_quad_lod3.visual>
+	<boundingBox>
+		<min>	-0.082525 0.003632 -0.070603	</min>
+		<max>	0.082808 0.154770 0.081969	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	GGA042_20mm_Flack_38_quad	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_gunFire1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.707107 -0.707107 0.000000	</row1>
+					<row2>	0.000000 0.707107 0.707107 0.000000	</row2>
+					<row3>	0.000000 0.147032 0.073685 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFireEffect	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.707107 -0.707107 0.000000	</row1>
+					<row2>	0.000000 0.707107 0.707107 0.000000	</row2>
+					<row3>	0.000000 0.147032 0.073685 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	GGA042_20mm_Flack_38_quad	</node>
+		<geometry>
+			<vertices>	GGA042_20mm_Flack_38_quad_lodShape3.vertices	</vertices>
+			<primitive>	GGA042_20mm_Flack_38_quad_lodShape3.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGA042_20mm_Flack_38_quad.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</GGA042_20mm_Flack_38_quad_lod3.visual>

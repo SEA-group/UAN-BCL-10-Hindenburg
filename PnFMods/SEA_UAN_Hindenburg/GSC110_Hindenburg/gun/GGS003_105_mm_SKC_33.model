@@ -1,1 +1,9 @@
-<GGS003_105_mm_SKC_33.model><castsShadow>true</castsShadow><exporter>1.6</exporter><extent>4.000000</extent><materialNames /><parent>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGS003_105_mm_SKC_33_lod1</parent><nodefullVisual>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGS003_105_mm_SKC_33</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGS003_105_mm_SKC_33.model>
+<GGS003_105_mm_SKC_33.model>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<extent>	4.000000	</extent>
+	<materialNames />
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGS003_105_mm_SKC_33_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGS003_105_mm_SKC_33	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGS003_105_mm_SKC_33.model>

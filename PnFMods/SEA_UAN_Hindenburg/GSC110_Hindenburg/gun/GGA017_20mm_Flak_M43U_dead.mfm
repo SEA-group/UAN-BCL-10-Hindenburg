@@ -1,0 +1,17 @@
+<GGA017_20mm_Flak_M43U_dead.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGA017_20mm_Flak_M43U_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGA017_20mm_Flak_M43U_dead_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGA017_20mm_Flak_M43U_dead_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/default_ao.dds	</Texture>
+	</property>
+</GGA017_20mm_Flak_M43U_dead.mfm>

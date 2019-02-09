@@ -1,1 +1,8 @@
-<GF022_FuMO27_Dir_Mod2_lod2.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF022_FuMO27_Dir_Mod2_lod3</parent><extent>15.0000</extent><nodefullVisual>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF022_FuMO27_Dir_Mod2_lod2</nodefullVisual><castsShadow>false</castsShadow><metaData>Wargaming | Lesta Studio</metaData></GF022_FuMO27_Dir_Mod2_lod2.model>
+<GF022_FuMO27_Dir_Mod2_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF022_FuMO27_Dir_Mod2_lod3	</parent>
+	<extent>	15.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF022_FuMO27_Dir_Mod2_lod2	</nodefullVisual>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GF022_FuMO27_Dir_Mod2_lod2.model>

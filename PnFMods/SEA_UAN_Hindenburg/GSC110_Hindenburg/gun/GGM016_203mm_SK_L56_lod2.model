@@ -1,1 +1,8 @@
-<GGM016_203mm_SK_L56_lod2.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGM016_203mm_SK_L56_lod3</parent><extent>35.000000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGM016_203mm_SK_L56_lod2</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGM016_203mm_SK_L56_lod2.model>
+<GGM016_203mm_SK_L56_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGM016_203mm_SK_L56_lod3	</parent>
+	<extent>	35.000000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGM016_203mm_SK_L56_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGM016_203mm_SK_L56_lod2.model>

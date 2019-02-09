@@ -1,1 +1,9 @@
-<GF015_3m_Rangefinder_covered.model><castsShadow>false</castsShadow><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF015_3m_Rangefinder_covered_lod1</parent><nodefullVisual>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF015_3m_Rangefinder_covered</nodefullVisual><extent>4.000000</extent><materialNames /><metaData>Wargaming | Lesta Studio</metaData></GF015_3m_Rangefinder_covered.model>
+<GF015_3m_Rangefinder_covered.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF015_3m_Rangefinder_covered_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF015_3m_Rangefinder_covered	</nodefullVisual>
+	<extent>	4.000000	</extent>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GF015_3m_Rangefinder_covered.model>

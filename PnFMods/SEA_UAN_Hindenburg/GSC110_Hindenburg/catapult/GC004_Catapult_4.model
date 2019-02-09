@@ -1,1 +1,9 @@
-<GC004_Catapult_4.model><exporter>1.6</exporter><materialNames /><castsShadow>true</castsShadow><extent>5.000000</extent><parent>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/catapult/GC004_Catapult_4_lod1</parent><nodefullVisual>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/catapult/GC004_Catapult_4</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GC004_Catapult_4.model>
+<GC004_Catapult_4.model>
+	<exporter>	1.6	</exporter>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<extent>	5.000000	</extent>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/catapult/GC004_Catapult_4_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/catapult/GC004_Catapult_4	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GC004_Catapult_4.model>

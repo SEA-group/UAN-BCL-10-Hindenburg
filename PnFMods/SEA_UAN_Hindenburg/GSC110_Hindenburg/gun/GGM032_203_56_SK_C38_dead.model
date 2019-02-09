@@ -1,1 +1,9 @@
-<GGM032_203_56_SK_C38_dead.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGM032_203_56_SK_C38_dead_lod1</parent><extent>6.000000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGM032_203_56_SK_C38_dead</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GGM032_203_56_SK_C38_dead.model>
+<GGM032_203_56_SK_C38_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGM032_203_56_SK_C38_dead_lod1	</parent>
+	<extent>	6.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGM032_203_56_SK_C38_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGM032_203_56_SK_C38_dead.model>

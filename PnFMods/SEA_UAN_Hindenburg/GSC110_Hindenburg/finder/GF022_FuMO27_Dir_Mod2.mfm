@@ -1,0 +1,20 @@
+<GF022_FuMO27_Dir_Mod2.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.200000	</Float>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF022_FuMO27_Dir_Mod2_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF022_FuMO27_Dir_Mod2_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF022_FuMO27_Dir_Mod2_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/default_ao.dds	</Texture>
+	</property>
+</GF022_FuMO27_Dir_Mod2.mfm>
