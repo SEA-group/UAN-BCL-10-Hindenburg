@@ -1,6 +1,6 @@
 <GSC015_Hindenburg_1945_MidFront.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/ship/GSC015_Hindenburg_1945_MidFront_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/ship/lods/GSC015_Hindenburg_1945_MidFront_lod1	</parent>
 	<extent>	9.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

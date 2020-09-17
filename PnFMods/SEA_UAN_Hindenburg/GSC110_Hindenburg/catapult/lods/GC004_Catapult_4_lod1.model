@@ -1,0 +1,9 @@
+<GC004_Catapult_4_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/catapult/lods/GC004_Catapult_4_lod2	</parent>
+	<extent>	10.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/catapult/lods/GC004_Catapult_4_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GC004_Catapult_4_lod1.model>

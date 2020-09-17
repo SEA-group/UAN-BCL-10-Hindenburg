@@ -1,8 +1,0 @@
-<GD008_Zeilsaule_C38_Night_Dir_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/director/GD008_Zeilsaule_C38_Night_Dir_lod2	</parent>
-	<extent>	4.000000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/director/GD008_Zeilsaule_C38_Night_Dir_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</GD008_Zeilsaule_C38_Night_Dir_lod1.model>

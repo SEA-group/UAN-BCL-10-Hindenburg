@@ -1,0 +1,8 @@
+<GGA044_55mm_Gerat_twin_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/lods/GGA044_55mm_Gerat_twin_lod3	</parent>
+	<extent>	20.000000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/lods/GGA044_55mm_Gerat_twin_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGA044_55mm_Gerat_twin_lod2.model>

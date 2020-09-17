@@ -1,0 +1,8 @@
+<GF015_3m_Rangefinder_covered_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/lods/GF015_3m_Rangefinder_covered_lod3	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/lods/GF015_3m_Rangefinder_covered_lod2	</nodefullVisual>
+	<extent>	12.000000	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GF015_3m_Rangefinder_covered_lod2.model>

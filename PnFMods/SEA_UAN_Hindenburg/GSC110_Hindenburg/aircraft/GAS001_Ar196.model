@@ -1,6 +1,6 @@
 <GAS001_Ar196.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/aircraft/GAS001_Ar196_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/aircraft/lods/GAS001_Ar196_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

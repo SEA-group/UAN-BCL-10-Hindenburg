@@ -3,7 +3,7 @@
 	<exporter>	1.6	</exporter>
 	<extent>	4.000000	</extent>
 	<materialNames />
-	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGS003_105_mm_SKC_33_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/lods/GGS003_105_mm_SKC_33_dead_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGS003_105_mm_SKC_33_dead	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GGS003_105_mm_SKC_33_dead.model>

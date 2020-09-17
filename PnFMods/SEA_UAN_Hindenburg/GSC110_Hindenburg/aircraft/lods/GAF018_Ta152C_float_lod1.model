@@ -1,0 +1,9 @@
+<GAF018_Ta152C_float_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/aircraft/lods/GAF018_Ta152C_float_lod2	</parent>
+	<extent>	20.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/aircraft/lods/GAF018_Ta152C_float_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GAF018_Ta152C_float_lod1.model>
