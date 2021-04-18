@@ -47,7 +47,7 @@
 			<primitive>	GF022_FuMO27_Dir_Mod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF022_FuMO27_Dir_Mod2.mfm	</mfm>
 				</material>
 			</primitiveGroup>

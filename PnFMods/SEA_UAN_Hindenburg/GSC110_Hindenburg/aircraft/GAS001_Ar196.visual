@@ -139,7 +139,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/aircraft/GAS001_Ar196_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

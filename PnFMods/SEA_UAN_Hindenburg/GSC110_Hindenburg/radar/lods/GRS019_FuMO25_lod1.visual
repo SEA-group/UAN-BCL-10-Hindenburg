@@ -75,7 +75,7 @@
 			<primitive>	GRS019_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/radar/GRS019_FuMO25_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

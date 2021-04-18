@@ -29,7 +29,7 @@
 			<primitive>	GF025_7m_Rangefinder_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF025_7m_Rangefinder.mfm	</mfm>
 				</material>
 			</primitiveGroup>

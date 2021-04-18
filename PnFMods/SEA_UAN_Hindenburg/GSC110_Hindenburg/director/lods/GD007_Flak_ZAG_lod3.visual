@@ -29,7 +29,7 @@
 			<primitive>	Flak_ZAG_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_director	</identifier>
+					<identifier>	SHIPMATX_PBS_director	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/director/GD007_Flak_ZAG.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -25,7 +25,7 @@
 			<primitive>	Base_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF015_3m_Rangefinder_covered.mfm	</mfm>
 				</material>
 			</primitiveGroup>

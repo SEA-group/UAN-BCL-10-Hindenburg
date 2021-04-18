@@ -74,7 +74,7 @@
 			<primitive>	GGA035_20mm_Flak_38_C35_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGA035_22mm_Flak_C35.mfm	</mfm>
 				</material>
 			</primitiveGroup>

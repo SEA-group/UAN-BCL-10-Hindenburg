@@ -65,7 +65,7 @@
 			<primitive>	GGT014_533mm_Torpedo_Tubes_Quad_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGT014_533mm_Torpedo_Tubes_Quad.mfm	</mfm>
 				</material>
 			</primitiveGroup>

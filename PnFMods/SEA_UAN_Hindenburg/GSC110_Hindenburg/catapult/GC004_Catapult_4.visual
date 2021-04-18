@@ -128,7 +128,7 @@
 			<primitive>	CatapultShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/catapult/GC004_Catapult_4_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -142,7 +142,7 @@
 			<primitive>	CradleShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/catapult/GC004_Catapult_4_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -150,7 +150,7 @@
 			<primitive>	Turret_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGS003_105_mm_SKC_33_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -38,7 +38,7 @@
 			<primitive>	Director_Root_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/finder/GF005_4m_Rangefinder_Type_SL_8.mfm	</mfm>
 				</material>
 			</primitiveGroup>

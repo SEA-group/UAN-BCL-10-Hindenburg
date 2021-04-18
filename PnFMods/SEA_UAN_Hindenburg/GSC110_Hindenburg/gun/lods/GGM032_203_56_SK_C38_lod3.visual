@@ -185,7 +185,7 @@
 			<primitive>	GGM032_lodShape32_Lod3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Hindenburg/GSC110_Hindenburg/gun/GGM032_203_56_SK_C38_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
